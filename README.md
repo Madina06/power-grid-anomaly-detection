@@ -9,6 +9,7 @@ You can read the full thesis here: [`Thesis_final_version.pdf`](./Thesis_final_v
 - Models tested: Decision Tree, Random Forest, Gradient Boosting, XGBoost, LSTM
 - Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 - Feature Engineering: delta, lag, moving average
+- Datasets in datasets/ folder.
 
 ## 🧠 Code
 Google Colab notebook: [`anomaly_detection_power_grid.ipynb`](./anomaly_detection_power_grid.ipynb)
