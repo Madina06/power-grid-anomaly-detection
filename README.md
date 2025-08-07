@@ -20,6 +20,7 @@ Detailed performance results in `results/` folder.
 ## 💡 Technologies
 - Python, Pandas, Scikit-learn, TensorFlow/Keras
 - Google Colab for experiments
+- Excel for saving results
 
 ## 🔗 Links
 - [Colab Notebook](https://colab.research.google.com/drive/1cGj50LsdC9pVx1ScBQ_mjZLill64xqLw?usp=sharing#scrollTo=EO6YIXubn6N9)
